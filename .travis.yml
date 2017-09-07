@@ -8,6 +8,8 @@ cache:
 
 before_script:
   - npm install
+  - npm install -g firebase-tools
 
 script:
+  - npm run build
   - npm run firebase:deploy
