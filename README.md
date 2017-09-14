@@ -1,6 +1,8 @@
 # Angular4Starter
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+
+Medium article:
+https://medium.com/@hyseneim/create-your-first-angular4-firebase-travis-ci-application-e29bf64fc4e1
 
 ## Development server
 
